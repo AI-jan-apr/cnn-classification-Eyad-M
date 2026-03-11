@@ -1,0 +1,9 @@
+kaggle
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+scikit-image
+torch
+torchvision
